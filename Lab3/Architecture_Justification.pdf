@@ -1,0 +1,72 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 842 595] /Resources << /Font << /F1 4 0 R /F2 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+6 0 obj
+<< /Length 3400 >>
+stream
+0.12 0.30 0.47 rg
+BT /F2 16 Tf 235 555 Td (Household Carbon Footprint & Target Tracker) Tj ET
+0 0 0 rg
+BT /F1 10 Tf 310 535 Td (UML Component Diagram - Layered Architecture) Tj ET
+0.4 0.5 0.6 RG
+25 365 m 817 365 l 817 505 l 25 505 l ch S
+BT /F2 8  Tf 37 488 Td (PRESENTATION LAYER) Tj ET
+25 165 m 817 165 l 817 325 l 25 325 l ch S
+BT /F2 8  Tf 37 308 Td (BUSINESS LAYER) Tj ET
+25 35 m 817 35 l 817 130 l 25 130 l ch S
+BT /F2 8  Tf 37 112 Td (DATA LAYER) Tj ET
+0 0 0 rg
+stroke
+350 410 145 48 re
+BT /F2 9 Tf 368 438 Td (Resident / Coach UI) Tj ET
+BT /F1 6.5 Tf 360 422 Td (Monthly logs - targets - dashboard) Tj ET
+350 55 145 48 re
+BT /F2 9 Tf 368 83 Td (Carbon Data Store) Tj ET
+BT /F1 6.5 Tf 360 67 Td (Logs - factors - targets - history) Tj ET
+65 225 190 55 re
+BT /F2 9 Tf 83 260 Td (Carbon Calculation) Tj ET
+65 225 190 55 re
+BT /F1 6.5 Tf 75 237 Td (Electricity - gas - commute CO2e)) Tj ET
+326 225 190 55 re
+BT /F2 9 Tf 344 260 Td (Milestone Tracker) Tj ET
+421 237 m 421 103 l S
+BT /F1 6.5 Tf 336 237 Td (Targets - progress - achievements) Tj ET
+587 225 190 55 re
+BT /F2 9 Tf 605 260 Td (Analytics Service) Tj ET
+597 237 m 597 103 l S
+BT /F1 6.5 Tf 595 237 Td (History - comparisons - graphs) Tj ET
+55 17 m 55 17 l 55 17 l S
+BT /F1 7 Tf 82 14 Td (Provided interface (ball)) Tj ET
+220 17 m 230 17 l S
+BT /F1 7 Tf 238 14 Td (Required interface (socket)) Tj ET
+420 17 m 450 17 l S
+BT /F1 7 Tf 458 14 Td (Dependency / data flow) Tj ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000251 00000 n 
+0000000321 00000 n 
+0000000396 000000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+3950
+%%EOF
